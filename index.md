@@ -8,7 +8,7 @@
       <p><b>地址：四川-成都-高新西区-西源大道2006号电子科技大学（清水河校区）</b></p>
     </td>
     <td width="25%">
-      <img src="/TianwenZhang.jpg" width="100%">      % 插入证件照代码
+      <img src="/TianwenZhang.jpg" width="100%">
     </td>
   </tr>
 </table>
