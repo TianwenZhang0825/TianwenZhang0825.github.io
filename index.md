@@ -217,3 +217,20 @@ https://www.mdpi.com/2072-4292/11/21/2483
 [42] X. Ke, X. Zhang, ***T. Zhang***, J. Shi, and S. Wei, “SAR Ship Detection Based on an Improved Faster R-CNN Using Deformable Convolution,” in IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2021, pp. 3565-3568.
 
 [43] X. Xu, X. Zhang, and ***T. Zhang***, “Multi-Scale SAR Ship Classification with Convolutional Neural Network,” in IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2021, pp. 4284-4287.
+
+# 征稿：Special Issue "Synthetic Aperture Radar (SAR) Meets Deep Learning"
+
+![synthetic_aperture_radar_meets_deep_learning_horizontal_light](https://user-images.githubusercontent.com/46946730/156915015-10d2daac-fe44-4311-ba27-a7f3717a1500.png)
+
+# Visual Exhibition
+![image](https://user-images.githubusercontent.com/46946730/156915068-b99d7679-b61f-46f9-af2f-d10cb2c6f55c.png)
+
+![image](https://user-images.githubusercontent.com/46946730/156915072-84759d73-3d98-49b7-ab48-f1270cef5c3a.png)
+
+![image](https://user-images.githubusercontent.com/46946730/156915089-4fe4e1a8-c915-4b1d-9014-3d5da334f899.png)
+
+
+
+
+
+
