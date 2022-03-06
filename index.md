@@ -119,3 +119,95 @@ https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81890
 https://mp.weixin.qq.com/s/pd3MuXycRuAay8Dy2hLiEQ
 
 # 我的研究论文
+[1] ***T. Zhang***, and X. Zhang, “A Polarization Fusion Network with Geometric Feature Embedding for SAR Ship Classification,” ***Pattern Recognition***, vol. 123, pp. 108365, 2021.***1区TOP***
+https://www.sciencedirect.com/science/article/pii/S0031320321005458
+
+[2] ***T. Zhang***, X. Zhang, C. Liu, J. Shi, S. Wei, I. Ahmad, X. Zhan, Y. Zhou, D. Pan, J. Li, and H. Su, “Balance learning for ship detection from synthetic aperture radar remote sensing imagery,” ***ISPRS Journal of Photogrammetry and Remote Sensing***, vol. 182, pp. 190-207, 2021. ***1区TOP***
+https://www.sciencedirect.com/science/article/pii/S0924271621002781
+
+[3] ***T. Zhang***, X. Zhang, J. Shi, and S. Wei, “HyperLi-Net: A hyper-light deep learning network for high-accurate and high-speed ship detection from synthetic aperture radar imagery,” ***ISPRS Journal of Photogrammetry and Remote Sensing***, vol. 167, no. 2020, pp. 123-153, 2020. ***1区TOP***
+https://www.sciencedirect.com/science/article/pii/S0924271620301404
+
+[4] ***T. Zhang***, X. Zhang, X. Ke, C. Liu, X. Xu, X. Zhan, C. Wang, I. Ahmad, Y. Zhou, D. Pan, J. Li, H. Su, J. Shi, and S. Wei, “HOG-ShipCLSNet: A Novel Deep Learning Network with HOG Feature Fusion for SAR Ship Classification,” ***IEEE Transactions on Geoscience and Remote Sensing***, vol. 60, pp. 5210322, 2021. ***1区TOP***
+https://ieeexplore.ieee.org/document/9445223
+
+[5] ***T. Zhang***, and X. Zhang, “High-Speed Ship Detection in SAR Images Based on a Grid Convolutional Neural Network,” ***Remote Sensing***, vol. 11, no. 10, pp. 1206, 2019. ***2区TOP***
+https://www.mdpi.com/2072-4292/11/10/1206
+
+[6] ***T. Zhang***, X. Zhang, J. Shi, and S. Wei, “Depthwise Separable Convolution Neural Network for High-Speed SAR Ship Detection,” Remote Sensing, vol. 11, no. 21, pp. 2483, 2019. ***2区TOP***
+https://www.mdpi.com/2072-4292/11/21/2483
+
+[7] ***T. Zhang***, X. Zhang, X. Ke, X. Zhan, J. Shi, S. Wei, D. Pan, J. Li, H. Su, Y. Zhou, and D. Kumar, “LS-SSDD-v1.0: A Deep Learning Dataset Dedicated to Small Ship Detection from Large-Scale Sentinel-1 SAR Images,” ***Remote Sensing***, vol. 12, no. 18, pp. 2997, 2020. ***2区TOP***
+
+
+[8] ***T. Zhang***, X. Zhang, and X. Ke, “Quad-FPN: A Novel Quad Feature Pyramid Network for SAR Ship Detection,” Remote Sensing, vol. 13, no. 14, pp. 2771, 2021. [点击查阅]
+
+[9] ***T. Zhang***, X. Zhang, J. Li, X. Xu, B. Wang, X. Zhan, Y. Xu, X. Ke, T. Zeng, H. Su, I. Ahmad, D. Pan, C. Liu, Y. Zhou, J. Shi, and S. Wei, “SAR Ship Detection Dataset (SSDD): Official Release and Comprehensive Data Analysis,” Remote Sensing, vol. 13, no. 18, pp. 3690, 2021.
+
+[10] ***T. Zhang***, and X. Zhang, “Injection of Traditional Hand-Crafted Features into Modern CNN-Based Models for SAR Ship Classification: What, Why, Where, and How,” Remote Sensing, vol. 13, no. 11, pp. 2091, 2021.
+
+[11] ***T. Zhang***, and X. Zhang, “ShipDeNet-20: An Only 20 Convolution Layers and <1-MB Lightweight SAR Ship Detector,” IEEE Geoscience and Remote Sensing Letters, vol. 18, no. 7, pp. 1234-1238, 2021.
+
+[12] ***T. Zhang***, X. Zhang, J. Shi, S. Wei, J. Wang, J. Li, H. Su, and Y. Zhou, “Balance Scene Learning Mechanism for Offshore and Inshore Ship Detection in SAR Images,” IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 4004905, 2020.
+
+[13] ***T. Zhang***, and X. Zhang, “Squeeze-and-Excitation Laplacian Pyramid Network with Dual-Polarization Feature Fusion for Ship Classification in SAR Images,” IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 4019905, 2021.
+
+[14] ***T. Zhang***, and X. Zhang, “HTC+ for SAR Ship Instance Segmentation,” IEEE Transactions on Circuits and Systems for Video Technology, 2022. (Under review)
+
+[15] ***T. Zhang***, and X. Zhang, “Scale In Scale for SAR Ship Instance Segmentation,” IEEE Transactions on Neural Networks and Learning Systems, 2022. (Under review)
+
+[16] ***T. Zhang***, and X. Zhang, “GBAN: A Global Boundary-Aware Network for SAR Ship Instance Segmentation,” IEEE Transactions on Geoscience and Remote Sensing, 2022. (Under review)
+
+[17] ***T. Zhang***, and X. Zhang, “A Full-Level Context Squeeze-and-Excitation ROI Extractor for SAR Ship Instance Segmentation,” IEEE Geoscience and Remote Sensing Letters, 2022. (Under review)
+
+[18] ***T. Zhang***, X. Zhang, J. Shi, and S. Wei, “Shipdenet-18: An Only 1 Mb With Only 18 Convolution Layers Light-Weight Deep Learning Network For SAR Ship Detection,” in IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Waikoloa, HI, USA, 2020, pp. 1221-1224.
+
+[19] ***T. Zhang***, X. Zhang, J. Shi, and S. Wei, “A HOG Feature Fusion Method to Improve CNN-Based SAR Ship Classification Accuracy,” IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2021, pp. 5311-5314.
+
+[20] ***T. Zhang***, X. Zhang, J. Shi, S. Wei, and J. Li, “Balanced Feature Pyramid Network for Ship Detection in Synthetic Aperture Radar Images,” in IEEE Radar Conference (RadarConf), Florence, Italy, 2020, pp. 1-5.
+
+[21] ***T. Zhang***, X. Zhang, J. Li, and J. Shi, “Contextual Squeeze-and-Excitation Mask R-CNN for SAR Ship Instance Segmentation” in IEEE Radar Conference (RadarConf), 2022.
+
+[22] ***T. Zhang***, and X. Zhang, “Integrate Traditional Hand-Crafted Features into Modern CNN-based Models to Further Improve SAR Ship Classification Accuracy,” in Asia-Pacific Conference on Synthetic Aperture Radar (APSAR), 2021, pp. 1-6.
+
+[23] ***T. Zhang***, X. Zhang, A Scene-Aware Data Augmentation Method for SAR Ship Detection. IEEE CIE Radar Conference. 2020.
+
+[24] ***T. Zhang***, X. Zhang, J. Shi, and S. Wei, “High-Speed Ship Detection in SAR Images by Improved Yolov3,” in International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP), Chengdu, China, 2019, pp. 149-152.
+
+[25] ***T. Zhang***, X. Xu, and X. Zhang, “SAR Ship Instance Segmentation Based on Hybrid Task Cascade,” in International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP), 2021, pp. 530-533.
+
+[26] ***张天文***,张晓玲.一种大场景SAR图像中舰船检测虚警抑制方法. 现代雷达, 2022, 44(2): 1-8. 
+
+[27] ***张晓玲***,张天文.基于深度分离卷积神经网络的高速高精度SAR舰船检测.雷达学报, 2019, 8(6): 841. 
+
+[28] ***张天文***,张晓玲,师君,韦顺军.基于加权双向特征金字塔的SAR多尺度舰船检测. 2020, 全国雷达学术年会
+
+[29] ***张天文***,张晓玲,师君,韦顺军.深度学习在SAR舰船检测领域应用回顾与展望: LS-SSDD-v1.0数据集. 2020,全国雷达学术年会
+
+[30] ***T. Zhang***, X. Zhang. Path Aggregation Attention Feature Pyramid Network for SAR Ship Detection. 2021,全国复杂系统与工程大会
+
+[31] ***T. Zhang***, X. Zhang. Scale-in-Scale Network for Ship Detection in Synthetic Aperture Radar Images. 2021,全国复杂系统与工程大会
+
+[32] ***张天文***,张晓玲.基于显著性CNN的SAR图像靠岸舰船检测. 2022,第三届现代雷达论坛--“智能雷达技术发展”大会
+
+[33] X. Xu, X. Zhang, and ***T. Zhang***, “Lite-YOLOv5: A Lightweight Deep Learning Detector for On-Board Ship Detection in Large-Scene Sentinel-1 SAR Images,” Remote Sensing, vol. 14, no. 4, 2022. ***指导的硕士***
+
+[34] J. Bao, X. Zhang, ***T. Zhang***, and X. Xu, “ShadowDeNet: A Moving Target Shadow Detection Network for Video SAR,” Remote Sensing, vol. 14, no. 2, 2022. ***指导的博士***
+
+[35] C. Wang, J. Shi, Y. Zhou, L. Li, X. Yang, ***T. Zhang***, S. Wei, X. Zhang, and C. Tao, “Label Noise Modeling and Correction via Loss Curve Fitting for SAR ATR,” IEEE Transactions on Geoscience and Remote Sensing, vol. 60, 52162, 2022.
+
+[36] L. Zhou, X. Zhang, X. Zhan, L. Pu, ***T. Zhang***, J. Shi, and S. Wei, “A Novel Sub-Image Local Area Minimum Entropy Reconstruction Method for HRWS SAR Adaptive Unambiguous Imaging,” Remote Sensing, vol. 13, no. 16, 2021.
+
+[37] J. Bao, X. Zhang, ***T. Zhang***, J. Shi, and S. Wei, “A Novel Guided Anchor Siamese Network for Arbitrary Target-of-Interest Tracking in Video-SAR,” Remote Sensing, vol. 13, no. 22, pp. 4504, 2021. ***指导的博士***
+
+[38] Y. Wang, X. Zhang, X. Zhan, ***T. Zhang***, L. Zhou, J. Shi, and S. Wei, “An RCS Measurement Method Using Sparse Imaging Based 3D SAR Complex Image,” IEEE Antennas and Wireless Propagation Letters, vol. 21, no. 1, pp. 24-28, 2021.
+
+[39] L. Zhou, X. Zhang, L. Pu, ***T. Zhang***, J. Shi, and S. Wei, “A High-Precision Motion Errors Compensation Method Based on Sub-Image Reconstruction for HRWS SAR Imaging,” Remote Sensing, vol. 14, no. 4, 2022.
+
+[40] L. Pu, X. Zhang, J. Shi, S. Wei, ***T. Zhang***, and X. Zhan, “Precise RCS Extrapolation via Nearfield 3-D Imaging with Adaptive Parameter Optimization Bayesian Learning,” IEEE Transactions on Antennas and Propagation, 2021.
+
+[41] J. Bao, X. Zhang, ***T. Zhang***, X. Tang, J. Shi, and S. Wei, “A refocusing iterative optimization method based on the quad-beam mode for accurate estimation of the azimuth velocity of slow-moving targets using SAR,” Remote Sensing Letters, vol. 12, no. 11, pp. 1100-1111, 2021.
+
+[42] X. Ke, X. Zhang, ***T. Zhang***, J. Shi, and S. Wei, “SAR Ship Detection Based on an Improved Faster R-CNN Using Deformable Convolution,” in IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2021, pp. 3565-3568.
+
+[43] X. Xu, X. Zhang, and ***T. Zhang***, “Multi-Scale SAR Ship Classification with Convolutional Neural Network,” in IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2021, pp. 4284-4287.
