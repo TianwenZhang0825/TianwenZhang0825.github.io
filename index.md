@@ -14,20 +14,22 @@
   </tr>
 </table>
 
-# 我的故乡：江苏省淮安市涟水县--周恩来总理故乡，《西游记》作者吴承恩故乡
+# 我的故乡：江苏省淮安市涟水县--周恩来总理故乡，西游记作者吴承恩故乡
 
 ## 为中华之崛起而读书。--周恩来
-淮安人杰地灵，是一代伟人周恩来总理的故乡。历史上还诞生过大军事家韩信、汉赋大家枚乘、巾帼英雄梁红玉、《西游记》作者吴承恩、民族英雄关天培、《老残游记》作者刘鹗等。
+**淮安**人杰地灵，是一代伟人周恩来总理的故乡。历史上还诞生过大军事家韩信、汉赋大家枚乘、巾帼英雄梁红玉、《西游记》作者吴承恩、民族英雄关天培、《老残游记》作者刘鹗等。
 
 ## 运河之都，著名旅游景区：
-周恩来故里、周恩来纪念馆、吴承恩故居、里运河文化长廊、河下古镇、明祖陵、洪泽湖古堰（中国四大淡水湖之一）、荷花荡、五岛湖风景区、淮安府署、淮安西游乐园等。
+**周恩来**故里、周恩来纪念馆、吴承恩故居、里运河文化长廊、河下古镇、明祖陵、**洪泽湖**古堰（中国四大淡水湖之一）、荷花荡、五岛湖风景区、淮安府署、淮安西游乐园等。
 
 ![image](https://user-images.githubusercontent.com/46946730/156913896-be347462-e23b-4f98-a7a2-22ca325221dd.png)
 
 ## 淮扬美食
-淮扬菜为中国传统四大菜系之一。淮扬菜中，“扬”即扬菜，以扬州一带为代表的长江流域，“淮”即淮菜，以淮安一带为代表的淮河流域。
+**淮扬菜**为中国传统四大菜系之一。淮扬菜中，“扬”即扬菜，以扬州一带为代表的长江流域，**“淮”即淮菜，以淮安一带为代表的淮河流域**。
 
 淮扬菜8大代表菜包含软兜长鱼、蟹粉狮子头、大煮干丝、白袍虾仁、平桥豆腐、开洋蒲菜、文思豆腐、拆烩鲢鱼头，其中软兜长鱼和白袍虾仁是新中国第一次国宴其中的两道热菜，而软兜长鱼又被称为“开国第一菜”。
+
+洪泽湖小龙虾
 
 ![image](https://user-images.githubusercontent.com/46946730/156913971-acdbd31a-6628-418c-b51e-bfdc13cdc087.png)
 
@@ -64,7 +66,6 @@
 ### 旅游景区：都江堰、青城山、杜甫草堂、武侯祠、金沙遗址、青羊宫、大熊猫繁育研究基地 、宽窄巷子 、春熙路 、东郊记忆等
 
 ### 美食：四川火锅等等
-
 
 # 我的学业荣誉
 ## 博士期间
@@ -148,15 +149,15 @@ https://www.mdpi.com/2072-4292/11/21/2483
 
 [8] ***T. Zhang***, X. Zhang, and X. Ke, “Quad-FPN: A Novel Quad Feature Pyramid Network for SAR Ship Detection,” Remote Sensing, vol. 13, no. 14, pp. 2771, 2021.***2区TOP***
 
-[9] ***T. Zhang***, X. Zhang, J. Li, X. Xu, B. Wang, X. Zhan, Y. Xu, X. Ke, T. Zeng, H. Su, I. Ahmad, D. Pan, C. Liu, Y. Zhou, J. Shi, and S. Wei, “SAR Ship Detection Dataset (SSDD): Official Release and Comprehensive Data Analysis,” ***Remote Sensing***, vol. 13, no. 18, pp. 3690, 2021.***2区TOP***
+[9] ***T. Zhang***, X. Zhang, J. Li, X. Xu, B. Wang, X. Zhan, Y. Xu, X. Ke, T. Zeng, H. Su, I. Ahmad, D. Pan, C. Liu, Y. Zhou, J. Shi, and S. Wei, “SAR Ship Detection Dataset (SSDD): Official Release and Comprehensive Data Analysis,” ***Remote Sensing***, vol. 13, no. 18, pp. 3690, 2021. ***2区TOP***
 
-[10] ***T. Zhang***, and X. Zhang, “Injection of Traditional Hand-Crafted Features into Modern CNN-Based Models for SAR Ship Classification: What, Why, Where, and How,” ***Remote Sensing***, vol. 13, no. 11, pp. 2091, 2021.***2区TOP***
+[10] ***T. Zhang***, and X. Zhang, “Injection of Traditional Hand-Crafted Features into Modern CNN-Based Models for SAR Ship Classification: What, Why, Where, and How,” ***Remote Sensing***, vol. 13, no. 11, pp. 2091, 2021. ***2区TOP***
 
-[11] ***T. Zhang***, and X. Zhang, “ShipDeNet-20: An Only 20 Convolution Layers and <1-MB Lightweight SAR Ship Detector,” ***IEEE Geoscience and Remote Sensing Letters***, vol. 18, no. 7, pp. 1234-1238, 2021.***2区***
+[11] ***T. Zhang***, and X. Zhang, “ShipDeNet-20: An Only 20 Convolution Layers and <1-MB Lightweight SAR Ship Detector,” ***IEEE Geoscience and Remote Sensing Letters***, vol. 18, no. 7, pp. 1234-1238, 2021. ***2区***
 
-[12] ***T. Zhang***, X. Zhang, J. Shi, S. Wei, J. Wang, J. Li, H. Su, and Y. Zhou, “Balance Scene Learning Mechanism for Offshore and Inshore Ship Detection in SAR Images,” ***IEEE Geoscience and Remote Sensing Letters***, vol. 19, pp. 4004905, 2020.***2区***
+[12] ***T. Zhang***, X. Zhang, J. Shi, S. Wei, J. Wang, J. Li, H. Su, and Y. Zhou, “Balance Scene Learning Mechanism for Offshore and Inshore Ship Detection in SAR Images,” ***IEEE Geoscience and Remote Sensing Letters***, vol. 19, pp. 4004905, 2020. ***2区***
 
-[13] ***T. Zhang***, and X. Zhang, “Squeeze-and-Excitation Laplacian Pyramid Network with Dual-Polarization Feature Fusion for Ship Classification in SAR Images,” ***IEEE Geoscience and Remote Sensing Letters***, vol. 19, pp. 4019905, 2021.***2区***
+[13] ***T. Zhang***, and X. Zhang, “Squeeze-and-Excitation Laplacian Pyramid Network with Dual-Polarization Feature Fusion for Ship Classification in SAR Images,” ***IEEE Geoscience and Remote Sensing Letters***, vol. 19, pp. 4019905, 2021. ***2区***
 
 [14] ***T. Zhang***, and X. Zhang, “HTC+ for SAR Ship Instance Segmentation,” IEEE Transactions on Circuits and Systems for Video Technology, 2022. (Under review)
 
@@ -182,9 +183,9 @@ https://www.mdpi.com/2072-4292/11/21/2483
 
 [25] ***T. Zhang***, X. Xu, and X. Zhang, “SAR Ship Instance Segmentation Based on Hybrid Task Cascade,” in International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP), 2021, pp. 530-533.
 
-[26] ***张天文***,张晓玲.一种大场景SAR图像中舰船检测虚警抑制方法. 现代雷达, 2022, 44(2): 1-8. 
+[26] ***张天文***,张晓玲.一种大场景SAR图像中舰船检测虚警抑制方法. 现代雷达, 2022, 44(2): 1-8. **中文核心期刊**
 
-[27] ***张晓玲***,张天文.基于深度分离卷积神经网络的高速高精度SAR舰船检测.雷达学报, 2019, 8(6): 841. 
+[27] ***张晓玲***,张天文.基于深度分离卷积神经网络的高速高精度SAR舰船检测.雷达学报, 2019, 8(6): 841. **中文核心和EI期刊**
 
 [28] ***张天文***,张晓玲,师君,韦顺军.基于加权双向特征金字塔的SAR多尺度舰船检测. 2020, 全国雷达学术年会
 
