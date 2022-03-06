@@ -41,7 +41,7 @@
 # 我的本科母校
 ![image](https://user-images.githubusercontent.com/46946730/156914050-f1df4c3d-14e2-45ff-b6b3-6427e4641248.png)
 
-中南林业科技大学（Central South University of Forestry and Technology），简称“中南林科大”（CSUFT），坐落于湖南省长沙市，是国家林业和草原局与湖南省人民政府共建的省部共建大学、省属重点大学、湖南省“双一流”建设项目高校，入选国家“中西部高校基础能力建设工程”、卓越农林人才教育培养计划、国家“特色重点学科项目”、国家建设高水平大学公派研究生项目、湖南省2011计划，是湖南省属具有研究生推免资格的六所高校之一，亦是湖南省第一个拥有研究生院的省属高校，涵盖理、工、农、文、经、法、管、教、艺等九大学科门类，是具有博士后科研流动站、博士学位授予权和研究生推免权、以林业科学为特色的综合型大学。
+***中南林业科技大学***（Central South University of Forestry and Technology），简称“中南林科大”（CSUFT），坐落于湖南省长沙市，是国家林业和草原局与湖南省人民政府共建的省部共建大学、省属重点大学、湖南省“双一流”建设项目高校，入选国家“中西部高校基础能力建设工程”、卓越农林人才教育培养计划、国家“特色重点学科项目”、国家建设高水平大学公派研究生项目、湖南省2011计划，是湖南省属具有研究生推免资格的六所高校之一，亦是湖南省第一个拥有研究生院的省属高校，涵盖理、工、农、文、经、法、管、教、艺等九大学科门类，是具有博士后科研流动站、博士学位授予权和研究生推免权、以林业科学为特色的综合型大学。
 
 学校的前身之一是成立于1958年的本科院校湖南林学院。1963年，在老一辈无产阶级革命家陶铸同志的直接关怀下，湖南林学院迁往广州与华南农学院林学系合并成立中南林学院，直属国家林业部管理。2000年，学校转为省部共建。2005年，学校更名为中南林业科技大学。
 截至2021年11月，学校占地面积1388亩，校舍建筑总面积70.5万平方米，拥有一个占地7万多亩的实验林场（湖南北罗霄国家森林公园）；设有研究生院和24个教学单位，79个本科专业；有5个博士后流动站、6个一级学科博士点、20个一级学科硕士点、16个专业硕士学位授权类别；有2个国家特色重点学科、3个国家重点学科、5个国家林业局重点学科、6个省部重点学科，3个学科进入ESI全球排名前1%。
@@ -52,7 +52,7 @@
 ### 美食：长沙臭豆腐，长沙口水虾，网红奶茶店-察颜悦色，。。。。
 
 # 我的研究生母校
-电子科技大学（University of Electronic Science and Technology of China），简称“电子科大”，坐落于四川省成都市，是中华人民共和国教育部直属高校，由教育部、工业和信息化部、四川省和成都市共建；位列国家“双一流”、  “985工程”、“211工程”，入选“2011计划”、“111计划”、卓越工程师教育培养计划、国家建设高水平大学公派研究生项目、中国政府奖学金来华留学生接收院校、全国深化创新创业教育改革示范高校，为“两电一邮”成员；是一所完整覆盖整个电子类学科，以电子信息科学技术为核心，以工为主，理工渗透，理、工、管、文、医协调发展的多科性研究型全国重点大学。
+***电子科技大学***（University of Electronic Science and Technology of China），简称“电子科大”，坐落于四川省成都市，是中华人民共和国教育部直属高校，由教育部、工业和信息化部、四川省和成都市共建；位列国家“双一流”、  “985工程”、“211工程”，入选“2011计划”、“111计划”、卓越工程师教育培养计划、国家建设高水平大学公派研究生项目、中国政府奖学金来华留学生接收院校、全国深化创新创业教育改革示范高校，为“两电一邮”成员；是一所完整覆盖整个电子类学科，以电子信息科学技术为核心，以工为主，理工渗透，理、工、管、文、医协调发展的多科性研究型全国重点大学。
 
 学校原名成都电讯工程学院，1956年由交通大学（现上海交通大学、西安交通大学）、南京工学院（现东南大学）、华南工学院（现华南理工大学）的电讯工程有关专业合并创建而成；1960年被列为全国重点高等学校；1961年被确定为七所国防工业院校之一；1988年更名为电子科技大学；2000年由原信息产业部主管划转为教育部主管；2017年进入国家建设“双一流”A类高校行列。2019年教育部和四川省签约共同推进学校世界一流大学建设。
 
@@ -68,7 +68,7 @@
 
 # 我的学业荣誉
 ## 博士期间
-(1). 博士国家奖学金(2020年、2021年共两次), 全院唯一；
+(1). ***博士国家奖学金(2020年、2021年共两次), 全院唯一；
 
 (2). 博士学业一等奖学金(2020年、2021年共两次)；
 
@@ -88,7 +88,7 @@
 https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81890
 
 ## 硕士期间
-(1). 硕士国家奖学金(2018年)；
+(1). ***硕士国家奖学金(2018年)；
 
 (2). 硕士学业一等奖学金(2018年)；
 
@@ -97,7 +97,7 @@ https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81890
 (4). 电子科技大学“优秀硕士研究生”称号获得者。
 
 ## 本科期间
-(1). 本科国家奖学金(2015年), 专业唯一;
+(1). ***本科国家奖学金(2015年), 专业唯一;
 
 (2). 本科国家励志奖学金(2014年、2016年共两次)；
 
@@ -120,37 +120,43 @@ https://mp.weixin.qq.com/s/pd3MuXycRuAay8Dy2hLiEQ
 
 # 我的研究论文
 [1] ***T. Zhang***, and X. Zhang, “A Polarization Fusion Network with Geometric Feature Embedding for SAR Ship Classification,” ***Pattern Recognition***, vol. 123, pp. 108365, 2021.***1区TOP***
+
 https://www.sciencedirect.com/science/article/pii/S0031320321005458
 
 [2] ***T. Zhang***, X. Zhang, C. Liu, J. Shi, S. Wei, I. Ahmad, X. Zhan, Y. Zhou, D. Pan, J. Li, and H. Su, “Balance learning for ship detection from synthetic aperture radar remote sensing imagery,” ***ISPRS Journal of Photogrammetry and Remote Sensing***, vol. 182, pp. 190-207, 2021. ***1区TOP***
+
 https://www.sciencedirect.com/science/article/pii/S0924271621002781
 
 [3] ***T. Zhang***, X. Zhang, J. Shi, and S. Wei, “HyperLi-Net: A hyper-light deep learning network for high-accurate and high-speed ship detection from synthetic aperture radar imagery,” ***ISPRS Journal of Photogrammetry and Remote Sensing***, vol. 167, no. 2020, pp. 123-153, 2020. ***1区TOP***
+
 https://www.sciencedirect.com/science/article/pii/S0924271620301404
 
 [4] ***T. Zhang***, X. Zhang, X. Ke, C. Liu, X. Xu, X. Zhan, C. Wang, I. Ahmad, Y. Zhou, D. Pan, J. Li, H. Su, J. Shi, and S. Wei, “HOG-ShipCLSNet: A Novel Deep Learning Network with HOG Feature Fusion for SAR Ship Classification,” ***IEEE Transactions on Geoscience and Remote Sensing***, vol. 60, pp. 5210322, 2021. ***1区TOP***
+
 https://ieeexplore.ieee.org/document/9445223
 
 [5] ***T. Zhang***, and X. Zhang, “High-Speed Ship Detection in SAR Images Based on a Grid Convolutional Neural Network,” ***Remote Sensing***, vol. 11, no. 10, pp. 1206, 2019. ***2区TOP***
+
 https://www.mdpi.com/2072-4292/11/10/1206
 
 [6] ***T. Zhang***, X. Zhang, J. Shi, and S. Wei, “Depthwise Separable Convolution Neural Network for High-Speed SAR Ship Detection,” Remote Sensing, vol. 11, no. 21, pp. 2483, 2019. ***2区TOP***
+
 https://www.mdpi.com/2072-4292/11/21/2483
 
 [7] ***T. Zhang***, X. Zhang, X. Ke, X. Zhan, J. Shi, S. Wei, D. Pan, J. Li, H. Su, Y. Zhou, and D. Kumar, “LS-SSDD-v1.0: A Deep Learning Dataset Dedicated to Small Ship Detection from Large-Scale Sentinel-1 SAR Images,” ***Remote Sensing***, vol. 12, no. 18, pp. 2997, 2020. ***2区TOP***
 
 
-[8] ***T. Zhang***, X. Zhang, and X. Ke, “Quad-FPN: A Novel Quad Feature Pyramid Network for SAR Ship Detection,” Remote Sensing, vol. 13, no. 14, pp. 2771, 2021. [点击查阅]
+[8] ***T. Zhang***, X. Zhang, and X. Ke, “Quad-FPN: A Novel Quad Feature Pyramid Network for SAR Ship Detection,” Remote Sensing, vol. 13, no. 14, pp. 2771, 2021.***2区TOP***
 
-[9] ***T. Zhang***, X. Zhang, J. Li, X. Xu, B. Wang, X. Zhan, Y. Xu, X. Ke, T. Zeng, H. Su, I. Ahmad, D. Pan, C. Liu, Y. Zhou, J. Shi, and S. Wei, “SAR Ship Detection Dataset (SSDD): Official Release and Comprehensive Data Analysis,” Remote Sensing, vol. 13, no. 18, pp. 3690, 2021.
+[9] ***T. Zhang***, X. Zhang, J. Li, X. Xu, B. Wang, X. Zhan, Y. Xu, X. Ke, T. Zeng, H. Su, I. Ahmad, D. Pan, C. Liu, Y. Zhou, J. Shi, and S. Wei, “SAR Ship Detection Dataset (SSDD): Official Release and Comprehensive Data Analysis,” ***Remote Sensing***, vol. 13, no. 18, pp. 3690, 2021.***2区TOP***
 
-[10] ***T. Zhang***, and X. Zhang, “Injection of Traditional Hand-Crafted Features into Modern CNN-Based Models for SAR Ship Classification: What, Why, Where, and How,” Remote Sensing, vol. 13, no. 11, pp. 2091, 2021.
+[10] ***T. Zhang***, and X. Zhang, “Injection of Traditional Hand-Crafted Features into Modern CNN-Based Models for SAR Ship Classification: What, Why, Where, and How,” ***Remote Sensing***, vol. 13, no. 11, pp. 2091, 2021.***2区TOP***
 
-[11] ***T. Zhang***, and X. Zhang, “ShipDeNet-20: An Only 20 Convolution Layers and <1-MB Lightweight SAR Ship Detector,” IEEE Geoscience and Remote Sensing Letters, vol. 18, no. 7, pp. 1234-1238, 2021.
+[11] ***T. Zhang***, and X. Zhang, “ShipDeNet-20: An Only 20 Convolution Layers and <1-MB Lightweight SAR Ship Detector,” ***IEEE Geoscience and Remote Sensing Letters***, vol. 18, no. 7, pp. 1234-1238, 2021.***2区***
 
-[12] ***T. Zhang***, X. Zhang, J. Shi, S. Wei, J. Wang, J. Li, H. Su, and Y. Zhou, “Balance Scene Learning Mechanism for Offshore and Inshore Ship Detection in SAR Images,” IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 4004905, 2020.
+[12] ***T. Zhang***, X. Zhang, J. Shi, S. Wei, J. Wang, J. Li, H. Su, and Y. Zhou, “Balance Scene Learning Mechanism for Offshore and Inshore Ship Detection in SAR Images,” ***IEEE Geoscience and Remote Sensing Letters***, vol. 19, pp. 4004905, 2020.***2区***
 
-[13] ***T. Zhang***, and X. Zhang, “Squeeze-and-Excitation Laplacian Pyramid Network with Dual-Polarization Feature Fusion for Ship Classification in SAR Images,” IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 4019905, 2021.
+[13] ***T. Zhang***, and X. Zhang, “Squeeze-and-Excitation Laplacian Pyramid Network with Dual-Polarization Feature Fusion for Ship Classification in SAR Images,” ***IEEE Geoscience and Remote Sensing Letters***, vol. 19, pp. 4019905, 2021.***2区***
 
 [14] ***T. Zhang***, and X. Zhang, “HTC+ for SAR Ship Instance Segmentation,” IEEE Transactions on Circuits and Systems for Video Technology, 2022. (Under review)
 
