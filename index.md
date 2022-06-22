@@ -1,463 +1,411 @@
-<html>
-
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<META name=GENERATOR content="MSHTML 11.00.9600.17280"></HEAD>
+<META name=keywords 
+content="Rui Shao, Shao Rui, rui shao, shao rui, ruishao, shaorui, 邵睿, hkbu, HKBU, Hong Kong Baptist University">
+<META 
+content="IE=7.0000" http-equiv="X-UA-Compatible">
 <head>
-  <title>Tianwen Zhang - Homepage</title>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://scholar.google.com/citations?user=aJV0kM4AAAAJ&hl"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-    gtag('config', 'G-D41DLSC2BJ');
-  </script>
-
-  <style type="text/css" media="screen">
-    html,
-    body,
-    div,
-    span,
-    applet,
-    object,
-    iframe,
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6,
-    p,
-    blockquote,
-    pre,
-    a,
-    abbr,
-    acronym,
-    address,
-    big,
-    cite,
-    code,
-    del,
-    dfn,
-    em,
-    font,
-    img,
-    ins,
-    kbd,
-    q,
-    s,
-    samp,
-    small,
-    strike,
-    strong,
-    sub,
-    tt,
-    var,
-    dl,
-    dt,
-    dd,
-    ol,
-    ul,
-    li,
-    fieldset,
-    form,
-    label,
-    legend,
-    table,
-    caption,
-    tbody,
-    tfoot,
-    thead,
-    tr,
-    th,
-    td {
-      border: 0pt none;
-      font-family: inherit;
-      font-size: 100%;
-      font-style: inherit;
-      font-weight: inherit;
-      margin: 0pt;
-      outline-color: invert;
-      outline-style: none;
-      outline-width: 0pt;
-      padding: 0pt;
-      vertical-align: baseline;
-    }
-
-    a {
-      color: #1772d0;
-      text-decoration: none;
-    }
-
-    a:focus,
-    a:hover {
-      color: #f09228;
-      text-decoration: none;
-    }
-
-    a.paper {
-      font-weight: bold;
-      font-size: 12pt;
-    }
-
-    b.paper {
-      font-weight: bold;
-      font-size: 12pt;
-    }
-
-    * {
-      margin: 0pt;
-      padding: 0pt;
-    }
-
-    body {
-      position: relative;
-      margin: 3em auto 2em auto;
-      width: 800px;
-      font-family: Lato, Verdana, Helvetica, sans-serif;
-      font-size: 14px;
-      background: #eee;
-    }
-
-    h2 {
-      font-family: Lato, Verdana, Helvetica, sans-serif;
-      font-size: 15pt;
-      font-weight: 700;
-    }
-
-    h4 {
-      font-family: Lato, Verdana, Helvetica, sans-serif;
-      font-size: 13pt;
-      font-weight: 700;
-    }
-
-    h3 {
-      font-family: Lato, Verdana, Helvetica, sans-serif;
-      font-size: 16px;
-      font-weight: 700;
-    }
-
-    strong {
-      font-family: Lato, Verdana, Helvetica, sans-serif;
-      font-size: 14px;
-    }
-
-    ul {
-      list-style: circle;
-    }
-
-    img {
-      border: none;
-    }
-
-    li {
-      padding-bottom: 0.5em;
-      margin-left: 1.4em;
-    }
-
-    strong,
-    b {
-      font-weight: bold;
-    }
-
-    em,
-    i {
-      font-style: italic;
-    }
-
-    div.section {
-      clear: both;
-      margin-bottom: 1.5em;
-      background: #eee;
-    }
-
-    div.spanner {
-      clear: both;
-    }
-
-    div.paper {
-      clear: both;
-      margin-top: 0.3em;
-      margin-bottom: 0.3em;
-      border: 1px solid #ddd;
-      background: #fff;
-      padding: 1em 1em 1em 1em;
-    }
-
-    div.paper div {
-      padding-left: 230px;
-    }
-
-    div.paper div.wide {
-      padding-right: 0px;
-    }
-
-    img.paper {
-      margin-bottom: 0.5em;
-      float: left;
-      width: 200px;
-    }
-
-    span.blurb {
-      font-style: italic;
-      display: block;
-      margin-top: 0.75em;
-      margin-bottom: 0.5em;
-    }
-
-    pre,
-    code {
-      font-family: 'Lucida Console', 'Andale Mono', 'Courier', monospaced;
-      margin: 1em 0;
-      padding: 0;
-    }
-
-    div.paper pre {
-      font-size: 0.9em;
-    }
-  </style>
-
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-7953909-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function () {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-  <link href="./page_files/css" rel="stylesheet" type="text/css">
-  <style id="style-1-cropbar-clipper">
-    /* Copyright 2014 Evernote Corporation. All rights reserved. */
-    .en-markup-crop-options {
-      top: 18px !important;
-      left: 50% !important;
-      margin-left: -100px !important;
-      width: 200px !important;
-      border: 2px rgba(255, 255, 255, .38) solid !important;
-      border-radius: 4px !important;
-    }
-
-    .en-markup-crop-options div div:first-of-type {
-      margin-left: 0px !important;
-    }
-  </style>
+    <link rel="stylesheet" href="./jemdoc.css" type="text/css">
+    <title>Rui Shao's Homepage</title>
 </head>
 
-<body>
-
-  <div style="margin-bottom: 1em; border: 1px solid #ddd; background-color: #fff; padding: 1em; height: 200px;">
-    <div style="margin: 0 auto; width: 100%; line-height: 130%;">
-      <img title="Yuming" style="float: left; padding-left: 1.0em; padding-right: 4.0em; height: 200px;"
-        src="TianwenZhang.jpg" />
-      <div style="padding-left: 4em; vertical-align: top; height: 250px;">
-        <span style="font-size: 16pt; line-height: 200%; font-weight:bold">Tianwen Zhang 张天文</span><br />
-        <span style="line-height: 250%;">Ph.D.</span><br />
-        <span style="line-height: 200%;">Radar Detection and Imaging Technology Team (PI: Jianyu Yang 杨建宇)</span><br />
-        <span>University of Electronic Science and Technology of China, Chengdu, Sichuan, China</span><br />
-        <span style="line-height: 300%;">Email: twzhang@std.uestc.edu.cn</span><br />
-        <a href="https://scholar.google.com/citations?user=aJV0kM4AAAAJ&hl" target="_blank">Google Scholar</a> /
-        <a href="https://github.com/TianwenZhang0825" target="_blank">GitHub</a> /
-        <a href="https://www.researchgate.net/profile/Tianwen-Zhang-4" target="_blank">ResearchGate</a>
-      </div>
-    </div>
-  </div>
-
-  <div style="clear: both;">
-    <!-- page div -->
-
-    <div class="section">
-      <h2>About me</h2>
-      <div class="paper">
-        I am currently a Ph.D. student at <a href="https://www.sice.uestc.edu.cn/info/1302/5113.htm" target="_blank">Radar Detection and Imaging Technology Team</a>,           <a href="https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China</a>, 
-        supervised by <a href="https://www.sice.uestc.edu.cn/info/1302/5125.htm" target="_blank">Prof. Xiaoling Zhang</a>.
-        I got my bachelor degree from School of Computer and Information Engineering, <a href="https://www.csuft.edu.cn/"
-          target="_blank">Central South University of Forestry and Technology</a> in 2017.
-        My research interests include artificial intelligence / deep learning / machine learning / computer vision / image processing / detection, recognition, tracking and segmentation / Radar / remote sensing /camera image / image enhancement (noise reduction and super score) / automatic driving.
-      </div>
-    </div>
 
 
-    <div class="section">
-      <h2 id="reports">Publications</h2>
-      <!--siggraph2022 Text2Human-->
-      <!--------------------------------------------------------------------------->
-      <div class="paper" id="stylehuman">
-        <img class="paper" title="stylehuman" src="./images/siggraph22_text2human.jpg">
-        <div>
-          <strong>Text2Human: Text-Driven Controllable Human Image Generation </strong>
-          <br>
-          <br>
-          <strong>Yuming Jiang</strong>, Shuai Yang, Haonan Qiu, Wayne Wu, Chen Change Loy,<br>
-          Ziwei Liu
-          <br>
-          <br>
-          <em>ACM Transactions on Graphics (SIGGRAPH), 2022</em>
-          <br>
-          <br>
+<body data-feedly-mini="yes">
 
-          <a href="https://arxiv.org/pdf/2205.15996.pdf" target="_blank"> PDF </a> /
-          <a href="https://yumingj.github.io/projects/Text2Human.html" target="_blank"> Project Page </a> /
-          <a href="https://github.com/yumingj/Text2Human" target="_blank"> Code </a> /
-          <a href="https://github.com/yumingj/DeepFashion-MultiModal" target="_blank"> Dataset </a>
-        </div>
-        <div class="spanner"></div>
-      </div>
-      <!--stylehuman-->
-      <!--------------------------------------------------------------------------->
-      <div class="paper" id="stylehuman">
-        <img class="paper" title="stylehuman" src="./images/stylehuman.png">
-        <div>
-          <strong>StyleGAN-Human: A Data-Centric Odyssey of Human Generation </strong>
-          <br>
-          <br>
-          Jianglin Fu*, Shikai Li*, <strong>Yuming Jiang</strong>, Kwan-Yee Lin, Chen Qian, Chen Change Loy, Wayne Wu,
-          Ziwei Liu
-          <br>
-          <br>
-          <em>arXiv Preprint, 2022</em>
-          <br>
-          <br>
+<div id="layout-content" style="margin-top:25px">
 
-          <a href="https://arxiv.org/pdf/2204.11823.pdf" target="_blank"> PDF </a> /
-          <a href="https://stylegan-human.github.io/" target="_blank"> Project Page </a> /
-          <a href="https://github.com/stylegan-human/StyleGAN-Human/" target="_blank"> Code </a>
-        </div>
-        <div class="spanner"></div>
-      </div>
-      <!--iccv21-->
-      <!--------------------------------------------------------------------------->
-      <div class="paper" id="iccv21_talk_to_edit">
-        <img class="paper" title="iccv21_talk_to_edit" src="./images/iccv21_talk_to_edit.jpeg">
-        <div>
-          <strong>Talk-to-Edit: Fine-Grained Facial Editing via Dialog </strong>
-          <br>
-          <br>
-          <strong>Yuming Jiang*</strong>, Ziqi Huang*, Xingang Pan, Chen Change Loy, Ziwei Liu
-          <br>
-          <br>
-          <em>International Conference on Computer Vision (ICCV), 2021</em>
-          <br>
-          <br>
+<table>
+    <tbody>
+        <tr>
+            <td width="670" >
+                <div id="toptitle">                 
+                    <h1>Rui Shao (邵睿) &nbsp; </h1><h1> <!-- <img src="./zzz_files/zizhao.jpg" width="190" style="margin-bottom:-10px"> -->
+                </h1></div>
 
-          <a href="https://arxiv.org/abs/2109.04425" target="_blank"> PDF </a> /
-          <a href="https://www.mmlab-ntu.com/project/talkedit/" target="_blank"> Project Page </a> /
-          <a href="https://github.com/yumingj/Talk-to-Edit" target="_blank"> Code </a> /
-          <a href="http://mmlab.ie.cuhk.edu.hk/projects/CelebA/CelebA_Dialog.html" target="_blank"> Dataset </a>
-        </div>
-        <div class="spanner"></div>
-      </div>
-      <!--cvpr21-->
-      <!--------------------------------------------------------------------------->
-      <div class="paper" id="cvpr21_c2_matching">
-        <img class="paper" title="cvpr21_c2_matching" src="./images/cvpr21_c2_matching.png">
-        <div>
-          <strong>Robust Reference-based Super-Resolution via C2-Matching </strong>
-          <br>
-          <br>
-          <strong>Yuming Jiang</strong>, Kelvin C.K. Chan, Xintao Wang, Chen Change Loy, Ziwei Liu
-          <br>
-          <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021</em>
-          <br>
-          <br>
+                <h3>Research Fellow, <a href="https://www.mmlab-ntu.com/index.html"> MMLab@NTU</a>
+                </h3></div> 
+                <br>
+                <br>
+                <p>
+                    School of Computer Science and Engineering, 
+                    <br>
+                    <br>
+                    Nanyang Technological University
+                    <br>
+                    <br>
+                    Email: rui.shao[AT]ntu.edu.sg; rshaojimmy[AT]gmail.com
+                    <br>
+                    <br>
+                    [<a href="https://scholar.google.com/citations?hl=en&user=6OHhjaIAAAAJ/">Google Scholar</a>]
+                    [<a href="https://github.com/rshaojimmy"/>GitHub</a>]
+                    [<a href="https://www.linkedin.com/in/rui-shao-0623b6122/"/>LinkedIn</a>]  
+                    [<a href="linkfile/ruishao_cv_homepage_20220529.pdf"/>CV</a>]                    
+                    [<a href="linkfile/RuiSHAO_CV_07May2022.pdf"/>中文简历</a>]                    
+                </p>
+            </td>
+            <td rowspan="1">
+                <img src="./linkfile/portrait/NTU.jpeg" border="0" width="400" align="bottom" ><br>
+            </td>
+        </tr>
+                <!-- <br> -->
+                <!-- <colgroup><col height="50" width="270">
+                </colgroup> -->
+                <!-- <tbody> -->
+                <td align="bottom" colspan="2" style="margin-top:2px">
+                    <h2>News</h2>
+                    <div style="height: 250px; overflow: auto;">
+                    <ul style="margin-left:2px; padding-left:20px; margin-top:5px">
+                        <li>05/2022: I have released the code of Federated Generalized Face Presentation Attack Detection in TNNLS 2022. <a href="https://github.com/rshaojimmy/TNNLS2022-FedGPAD"> Codes </a>
+                        <li>04/2022: I have one paper accepted by <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems"> IEEE Transactions on Neural Networks and Learning Systems (TNNLS) </a>.
+                        <li>03/2022: I have released the code of Open-set Adversarial Defense with Clean-Adversarial Mutual Learning in IJCV 2022. <a href="https://github.com/rshaojimmy/IJCV2022-OSDN-CAML"> Codes </a>
+                        <li>01/2022: The extension of our ECCV 2020 paper has been accepted by <a href="https://www.springer.com/journal/11263/"> International Journal of Computer Vision (IJCV). </a>
+                        <li>08/2020: I have released the code of Open-set Adversarial Defense in ECCV 2020. <a href="https://github.com/rshaojimmy/ECCV2020-OSAD"> Codes </a>
+                    	<li>07/2020: I have one paper accepted by <a href="https://eccv2020.eu/"> ECCV 2020</a>. See you online!  
+                        <li>11/2019: I have released the code of Regularized Fine-grained Meta Face Anti-spoofing in AAAI 2020. <a href="https://github.com/rshaojimmy/AAAI2020-RFMetaFAS"> Codes </a>
+                        <li>11/2019: I have one paper accepted by <a href="https://aaai.org/Conferences/AAAI-20/#"> AAAI 2020</a>. See you at New York City, USA!                         
+                        <li>10/2019: I have one paper one paper accepted by <a href="https://digital-library.theiet.org/content/journals/iet-ipr"> IET Image Processing. </a>
+                        <li>07/2019: I have released the code of Multi-adversarial Discriminative Deep Domain Generalization for FAS in CVPR 2019. <a href="https://github.com/rshaojimmy/CVPR2019-MADDoG"> Codes </a>                           
+                        <li>07/2019: I have released the code of Joint Discriminative Learning of Deep Dynamic Textures for 3D Mask FAS in TIFS 2019. <a href="https://github.com/rshaojimmy/TIFS2019"> Codes </a>      
+                        <li>02/2019: I have one paper accepted by <a href="http://cvpr2019.thecvf.com/"> CVPR 2019</a>. See you at Long Beach, USA!                          
+                        <li>02/2019: One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41"> IEEE Transactions on Industrial Electronics. </a> 
+                        <li>08/2018: I have one paper accepted by <a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security"> IEEE Transactions on Information Forensics and Security </a>.
+                        <li>07/2018: I have released the code of Hierarchical Adversarial Deep Domain Adaptation in ACMMM 2018. <a href="https://github.com/rshaojimmy/ACMMM2018-HADDA"> Codes </a>
+                        <li>07/2018: I have one paper accepted by <a href="http://www.acmmm.org/2018/"> ACM MM 2018</a>. See you at Seoul, Korea!                            
+                        <li>08/2018: I have a new homepage.
+                    </ul>
+                    </div>
+                </td>
+            
 
-          <a href="https://arxiv.org/abs/2106.01863" target="_blank"> PDF </a> /
-          <a href="./projects/C2_matching.html" target="_blank"> Project Page </a> /
-          <a href="https://github.com/yumingj/C2-Matching" target="_blank"> Code </a> /
-          <a href="https://drive.google.com/drive/folders/1Pt7blJA2cK4oQ6yWB9tcHerZ4pwICmxp?usp=sharing"
-            target="_blank"> Dataset </a>
-        </div>
-        <div class="spanner"></div>
-      </div>
-      <!--------------------------------------------------------------------------->
-      <!--tbme19-->
-      <!--------------------------------------------------------------------------->
-      <div class="paper" id="tbme19_jointrcnn">
-        <img class="paper" title="tbme19_jointrcnn" src="./images/tbme19_jointrcnn.png">
-        <div>
-          <strong>JointRCNN: A Region-based Convolutional Neural Network for Optic Disc and Cup Segmentation </strong>
-          <br>
-          <br>
-          <strong>Yuming Jiang</strong>, Lixin Duan, Jun Cheng, Zaiwang Gu, Hu Xia, Huazhu Fu, Changsheng Li and Jiang
-          Liu
-          <br>
-          <em>IEEE Transactions on Biomedical Engineering (TBME), 2019</em>
-          <br>
-          <br>
+        </tbody>
+</table>
 
-          <a href="https://ieeexplore.ieee.org/document/8698800" target="_blank"> PDF </a>
-        </div>
-        <div class="spanner"></div>
-      </div>
+<h2>About Me</h2>
+<p>
+    I am currently a postdoc at Nanyang Technological University, Singapore, working with <a href="https://liuziwei7.github.io/">Prof. Ziwei Liu</a> and <a href="https://www.mmlab-ntu.com/person/ccloy/">Prof. Chen Change Loy</a>. 
+</p> 
+<p>
+    I received my PhD degree from <a href="http://www.comp.hkbu.edu.hk/v1/"> Department of Computer Science</a>, Hong Kong Baptist University in 2021, supervised by <a href="http://www.comp.hkbu.edu.hk/~pcyuen/"> Prof. Pong C. Yuen</a>, and my bachelor degree from <a href="http://www.sice.uestc.edu.cn/"> School of Information and Communication Engineering</a>, <a href="http://www.uestc.edu.cn/"> University of Electronic Science and Technology of China (UESTC) </a> in 2015. I also spent a memorable high-school time in <a href="http://www.sfls.net.cn/"> Shenzhen Foreign Languages School.</a> I visited the Johns Hopkins University for 6 months in 2020.
+</p> 
+<p>
+    I am interested in Robustness (e.g., Face Anti-spoofing, Adversarial Attacks/Defense, DeepFake Detection) and Generalization (e.g., Domain Adaptation/Generalization, Meta Learning, and Federated Learning) of Computer Vision and Machine Learning.</p><br> 
+<!--     My current research focuses on exploiting the adaptive and generalized deep learning to develop a secure face recognition system with good generalization ability. -->
 
-      <!--embc18-->
-      <!--------------------------------------------------------------------------->
-      <div class="paper" id="embc18">
-        <img class="paper" title="embc18" src="./images/embc18.png">
-        <div>
-          <strong>Optic Disc and Cup Segmentation with Blood Vessel Removal from Fundus Images for Glaucoma Detection
-          </strong>
-          <br>
-          <br>
-          <strong>Yuming Jiang</strong>, Hu Xia, Yanwu Xu, Jun Cheng, Huazhu Fu, Lixin Duan, Zhigang Meng and Jiang Liu
-          <br>
-          <em>International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2018</em>
-          <br>
-          <br>
+<!--     <p style='color:red'><strong> I am looking for a postdoctoral position or a full-time job. Please feel free to drop me an email.</strong></p> -->
+</p> 
+    
 
-          <a href="https://ieeexplore.ieee.org/document/8512400" target="_blank"> PDF </a>
-        </div>
-        <div class="spanner"></div>
-        <!--------------------------------------------------------------------------->
-      </div>
-    </div>
+<h2>Biography</h2>
 
-    <div class="section">
-      <h2 id="reports">Professional Service</h2>
-      <div class="paper" id="reviewers">
-        <li>Conference Reviewer: NeurIPS 2022, ECCV 2022, AAAI 2021, CVPR 2021, ICCV 2021 </li>
-        <li>Journal Reviewer: IEEE Trans. on Image Processing, IEEE Trans. on Medical Image, Neurocomputing</li>
-        <div class="spanner"></div>
-      </div>
-      <!--------------------------------------------------------------------------->
-    </div>
+<li> 2021-Now, Research Fellow, <a href="https://www.mmlab-ntu.com/index.html"> MMLab@NTU</a>, Singapore 
 
-    <div class="section">
-      <h2 id="reports">Honors and Awards</h2>
-      <div class="paper" id="honors">
-        <li>NTU Research Scholarship, 2021 </li>
-        <li>The Most Outstanding Students Award of UESTC (10 awardees per year), 2019</li>
-        <li>Sichuan Provincial Outstanding Graduates, 2019</li>
-        <li>Outstanding Undergraduate Thesis Award, 2019</li>
-        <li>National Scholarship, 2016, 2017, 2018</li>
-        <li>Tanglixin Scholarship, 2017</li>
-        <li>Shiqiang Scholarship, 2017</li>
-        <li>Meritorious Winner in the Interdisciplinary Contest in Modeling (ICM), 2017</li>
-        <div class="spanner"></div>
-      </div>
-      <!--------------------------------------------------------------------------->
-    </div>
+<li> 2021.7- 2021.11, Research Intern, <a href="https://www.sensetime.com/en"> SenseTime</a>, Shenzhen, China, participating project of </a> <a href="https://github.com/open-mmlab/mmhuman3d">MMhuman3D</a> codebase.
 
-    <div class="section">
-      <h2 id="reports">Teaching</h2>
-      <div class="paper" id="teaching">
-        <li>Teaching Assistant: CE1115 Introduction to Data Science & Artificial Intelligence, NTU, 2021 Spring </li>
-        <li>Teaching Assistant: CE2101 Algorithm Design & Analysis, NTU, 2022 Spring </li>
-        <li>Teaching Assistant: AI6126 Advanced Computer Vision, NTU, 2022 Spring </li>
-        <div class="spanner"></div>
-      </div>
-      <!--------------------------------------------------------------------------->
-    </div>
+<li> 2017-2021, Ph.D., <a href="http://www.comp.hkbu.edu.hk/v1/"> Department of Computer Science, </a> <a href="https://www.hkbu.edu.hk/eng/main/index.jsp">Hong Kong Baptist University</a>, Hong Kong, China 
 
-  </div><!-- close page div -->
+<li> 2020.2-2020.7, Visiting scholar at <a href="https://www.jhu.edu/">Johns Hopkins University</a>, working with <a href="https://engineering.jhu.edu/vpatel36/sciencex_teams/vishalpatel/"> Prof. Vishal M Patel</a>, Baltimore, U.S. 
 
-  <script xml:space="preserve" language="JavaScript">
-    hideallbibs();
-    hideallabs();
-  </script>
+<li> 2015-2016, M.S., <a href="http://cs.whu.edu.cn/aspx/enmain/">School of Computer Science</a>, <a href="https://en.whu.edu.cn/"> Wuhan University, </a> Wuhan, China 
 
+<li> 2011-2015, B.S., <a href="http://www.sice.uestc.edu.cn/"> School of Information and Communication Engineering</a>, <a href="http://www.uestc.edu.cn/"> University of Electronic Science and Technology of China</a>, Chengdu, China  
+
+
+<h2>Publications </a>  </h2> 
+<table id="tbPublications" width="100%">
+    <tbody>
+
+        <tr>
+            <td width="300">
+            <img src="./linkfile/ECCV2020/IJCV2022.jpg" width="260px" height="160px">
+            </td>
+            <td>
+            <p> Open-set Adversarial Defense with Clean-Adversarial Mutual Learning  </a></p>
+            <b>Rui Shao</b>, Pramuditha Perera, Pong C. Yuen, Vishal M. Patel</p>
+      <p><i>International Journal of Computer Vision (IJCV), 2022</i></p>
+        [<a href="https://arxiv.org/pdf/2202.05953.pdf">arXiv</a>]
+        [<a href="https://link.springer.com/content/pdf/10.1007/s11263-022-01581-0.pdf">PDF</a>]
+        [<a href="https://github.com/rshaojimmy/IJCV2022-OSDN-CAML">Code</a>]
+
+      <tr>
+            <td width="300">
+            <img src="./linkfile/IJCB2020/fedpadext.jpg" width="260px" height="160px">
+            </td>
+            <td>
+            <p> Federated Generalized Face Presentation Attack Detection  </a></p>
+            <b>Rui Shao</b>, Pramuditha Perera, Pong C. Yuen, Vishal M. Patel</p>
+            <p><i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 2022. </i></p>
+            [<a href="https://arxiv.org/pdf/2104.06595.pdf">arXiv</a>]
+            [<a href="https://ieeexplore.ieee.org/document/9780603">PDF</a>]
+            [<a href="https://github.com/rshaojimmy/TNNLS2022-FedGPAD">Code</a>]
+    <!-- </tr> 
+    <tr><td>   <br>  </td></tr>
+
+      <tr>
+            <td width="300">
+            <img src="./linkfile/comingsoon.jpg" width="260px" height="160px">
+            </td>
+            <td>
+            <p> Detecting and Recovering Sequential DeepFake Manipulation  </a></p>
+            <b>Rui Shao</b>, Tianxing Wu, Ziwei Liu</p>
+            <p><i>Submitted to European Conference on Computer Vision (<b>ECCV</b>), 2022. </i></p>
+            
+    </tr> 
+    <tr><td>   <br>  </td></tr> -->
+
+</tr> 
+<tr><td>   <br>  </td></tr>
+
+
+    <tr>
+            <td width="300">
+            <img src="./linkfile/FG2021.jpg" width="250px" height="140px">
+            </td>
+            <td>
+            <p> Federated Test-Time Adaptive Face Presentation Attack Detection with Dual-Phase Privacy Preservation </a></p>
+            <b>Rui Shao</b>, Bochao Zhang, Pong C. Yuen, Vishal M. Patel</p>
+            <p><i>IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2021</i></p>
+            [<a href="https://arxiv.org/pdf/2110.12613.pdf">arXiv</a>]
+            [<a href="https://ieeexplore.ieee.org/document/9666952">PDF</a>]
+    </tr> 
+    <tr><td>   <br>  </td></tr>
+
+    <tr>
+            <td width="300">
+            <img src="./linkfile/MICCAI2021.jpg" width="250px" height="140px">
+            </td>
+            <td>
+            <p> Focusing on Clinically Interpretable Features: Selective Attention Regularization for Liver Biopsy Image Classification </a></p>         
+            Chong Yin, Siqi Liu, <b>Rui Shao</b>, Pong C. Yuen,</p>
+            <p><i>Medical Image Computing and Computer Assisted Interventions (<b>MICCAI</b>), 2021</i></p>
+            [<a href="https://link.springer.com/content/pdf/10.1007/978-3-030-87240-3_15.pdf">PDF</a>]
+
+    </tr> 
+    <tr><td>   <br>  </td></tr>
+
+
+
+    <tr>
+            <td width="300">
+            <img src="./linkfile/ECCV2020/eccv2020.png" width="250px" height="140px">
+            </td>
+            <td>
+            <p> Open-set Adversarial Defense </a></p>
+            <b>Rui Shao</b>, Pramuditha Perera, Pong C. Yuen, Vishal M. Patel</p>
+            <p><i>European Conference on Computer Vision (<b>ECCV</b>), 2020</i></p>
+            [<a href="https://arxiv.org/pdf/2009.00814.pdf">arXiv</a>]
+            [<a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620664.pdf">PDF</a>]
+            [<a href="https://github.com/rshaojimmy/ECCV2020-OSAD">Code</a>]
+
+    </tr> 
+    <tr><td>   <br>  </td></tr>
+
+
+
+    <tr>
+            <td width="300">
+            <img src="./linkfile/AAAI2020/aaai2020.png" width="250px" height="140px">
+            </td>
+            <td>
+            <p> Regularized Fine-grained Meta Face Anti-spooﬁng </a></p>
+            <b>Rui Shao</b>, Xiangyuan Lan, Pong C. Yuen</p>
+            <p><i>Thirty-Fourth AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2020</i></p>
+            [<a href="https://arxiv.org/pdf/1911.10771.pdf">arXiv</a>]
+            [<a href="./linkfile/AAAI2020/6873-Article Text-10102-1-10-20200525.pdf">PDF</a>]
+            [<a href="./linkfile/AAAI2020/AAAI2020_RFMetaFAS.pdf"/>Poster</a>]
+            [<a href="https://github.com/rshaojimmy/AAAI2020-RFMetaFAS">Code</a>]
+
+    </tr> 
+    <tr><td>   <br>  </td></tr>
+
+
+<!--     <tr>
+            <td width="300">
+            <img src="./linkfile/IJCB2020/ijcb2020.png" width="260px" height="160px">
+            </td>
+            <td>
+            <p> Federated Face Presentation Attack Detection  </a></p>
+            <b>Rui Shao</b>, Pramuditha Perera, Pong C. Yuen, Vishal M. Patel</p>
+            <p><i>ArXiv 2020</i></p>
+            [<a href="https://arxiv.org/pdf/2005.14638v2.pdf">arXiv</a>]
+
+    </tr> 
+    <tr><td>   <br>  </td></tr> -->
+
+
+    <tr>
+            <td width="300">
+            <img src="./linkfile/CVPR2019/cvpr2019.jpg" width="240px" height="180px">
+            </td>
+            <td>
+            <p> Multi-adversarial Discriminative Deep Domain Generalization for Face Presentation Attack Detection </a></p>
+            <b>Rui Shao</b>, Xiangyuan Lan, Jiawei Li, Pong C. Yuen</p>
+            <p><i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2019</i></p>
+            [<a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Shao_Multi-Adversarial_Discriminative_Deep_Domain_Generalization_for_Face_Presentation_Attack_Detection_CVPR_2019_paper.html">PDF</a>]
+            [<a href="./linkfile/CVPR2019/RuiShao_CVPR_poster_v3.pdf"/>Poster</a>]
+            [<a href="https://github.com/rshaojimmy/CVPR2019-MADDoG">Code</a>]
+            [<a href="https://drive.google.com/open?id=1Nsi4dxb17ZiuegMVKLPo8cr46EMjhEH8">Model</a>]
+
+    </tr> 
+    <tr><td>   <br>  </td></tr>
+
+    <tr>
+            <td width="300">
+            <img src="./linkfile/tifs2018.png" width="270px" height="130px">
+            </td>
+            <td>
+            <p> Joint Discriminative Learning of Deep Dynamic Textures for 3D Mask Face Anti-spoofing </a></p>
+            <b>Rui Shao</b>, Xiangyuan Lan, Pong C. Yuen</p>
+            <p><i> IEEE Transactions on Information Forensics and Security (<b>TIFS</b>), 2019</i></p>
+            [<a href="https://ieeexplore.ieee.org/document/8453011">PDF</a>]
+            [<a href="https://github.com/rshaojimmy/TIFS2019">Code</a>]    
+    </tr>
+    <tr><td>   <br>  </td></tr>
+
+    <tr>
+            <td width="300">
+            <img src="./linkfile/iet2019.jpg" width="270px" height="130px">
+            </td>
+            <td>
+            <p> Adversarial Auto-encoder for Unsupervised Deep Domain Adaptation </a></p>
+            <b>Rui Shao</b>, Xiangyuan Lan</p>
+            <p><i> IET Image Processing. (<b>IET-IPR</b>), 2019</i></p>
+            [<a href="https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2018.6687">PDF</a>]    
+    </tr>
+    <tr><td>   <br>  </td></tr>                    
+
+
+    <!-- <tr>
+            <td width="300">
+            <img src="./linkfile/ieeeaccess2019.jpg" width="260px" height="80px">
+            </td>
+            <td>
+            <p> Online Non-Negative Multi-Modality Feature Template Learning for RGB-Assisted Infrared Tracking </a></p>
+            Xiangyuan Lan, Mang Ye, <b>Rui Shao</b>, Bineng Zhong, Deepak Kumar Jain, Huiyu Zhou
+            <p><i> IEEE Access, 2019</i></p>
+            [<a href="https://ieeexplore.ieee.org/abstract/document/8713854">PDF</a>]        
+
+    <tr><td>   <br>  </td></tr>   -->
+
+
+    <tr>
+            <td width="300">
+            <img src="./linkfile/ACMMM2018/acmmm2018.png" width="270px" height="120px" > 
+            </td>
+            <td>
+            <p> Feature Constrained by Pixel: Hierarchical Adversarial Deep Domain Adaptation</a></p>
+            <b>Rui Shao</b>, Xiangyuan Lan, Pong C. Yuen</p>
+            <p><i> ACM international conference on Multimedia (<b>ACM MM</b>), 2018</i></p>
+            [<a href="https://dl.acm.org/citation.cfm?id=3240562">PDF</a>]
+            [<a href="./linkfile/ACMMM2018/acmmm_poster.pdf"/>Poster</a>]
+            [<a href="https://github.com/rshaojimmy/ACMMM2018-HADDA">Code</a>]
+
+
+            </p></td>
+    <tr><td>   <br>  </td></tr>
+
+
+
+    <tr>
+            <td width="300">
+            <img src="./linkfile/ijcb2017.png" width="260px" height="110px" > 
+            </td>
+            <td>
+            <p> Deep Convolutional Dynamic Texture Learning with Adaptive Channel-discriminability for 3D Mask Face Anti-spoofing </p>
+            <b>Rui Shao</b>, Xiangyuan Lan, Pong C. Yuen</p>
+            <p><i> International Joint Conference on Biometrics (<b>IJCB</b>), 2017</i></p>
+            [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8272765">PDF</a>] 
+                
+            </p></td>
+    <tr><td>   <br>  </td></tr>
+
+
+    <tr>
+        <td width="300">
+        <img src="./linkfile/tie2019.jpg" width="260px" height="110px">
+        </td>
+        <td>
+        <p> Learning Modality-Consistency Feature Templates: A Robust RGB-Infrared Tracking System</p>
+        Xiangyuan Lan, Mang Ye, <b>Rui Shao</b>, Bineng Zhong, Pong C. Yuen, Huiyu Zhou
+        <p><i> IEEE Transactions on Industrial Electronics (<b>TIE</b>), 2019</i></p>
+        [<a href="https://ieeexplore.ieee.org/document/8643077">PDF</a>]       
+</tr> 
+<tr><td>   <br>  </td></tr>
+
+    <!-- <tr>
+            <td width="300">
+            <img src="./linkfile/tracvid2016.jpg" width="200px" > 
+            </td>
+            <td>
+            <p> <a href="https://www-nlpir.nist.gov/projects/tvpubs/tv15.papers/nercms.pdf"> WHU-NERCMS at TREVCID 2015:Instance search task </a></p>
+            Lei Yao, Mang Ye, Dongjing Liu, <b>Rui Shao</b>, Tao Liu, Jun Liu, Zheng Wang, Chao Liang.</p>
+            <p><i> Participant Notebook Paper. (<b>TRECVID</b>), 2015</i>
+
+            </p></td>
+    <tr><td>   <br>  </td></tr> -->
+
+ 
+</tbody></table>
+
+
+<h2>Awards</h2>
+<table id="Awards" border="0" width="100%">
+
+    <tbody>
+    <li><a href="http://www.comp.hkbu.edu.hk/v1/?pid=48"> 2018/19 Computer Science Department RPg Performance Award</a> 
+    <li><a href="http://www.comp.hkbu.edu.hk/v1/?pid=48"> 2017/18 Computer Science Department RPg Performance Award</a>
+
+<tr><td>   <br>  </td></tr>
+
+
+</tbody></table>
+
+<h2>Services</h2>
+<table id="Services" border="0" width="100%">
+
+    <tbody>
+
+Invited Reviewer for: 
+    <li>IEEE  Transactions  on  Pattern  Analysis  and  Machine  Intelligence,  IEEE  Transactions  on  Information  Forensics and Security, Neural Networks, Pattern Recognition, Journal of Selected Topics in Signal Processing, Journal of Electronic Imaging 
+    <li>CVPR, ICCV, ECCV, NeurIPS, AAAI, IJCAI, ACM MM, ICPR, ICB
+    <li>Program Committee Member for: AAAI 2021 2022
+
+
+<tr><td>   <br>  </td></tr>
+
+</tbody></table>
+
+
+<h2>Collaborators</h2>
+<table id="tbTeaching" border="0" width="100%" >
+    <tbody>
+
+    <li><a href="https://engineering.jhu.edu/vpatel36/vishal-patel/"> Prof. Vishal M Patel</a>, Johns Hopkins University
+
+    <li><a href="https://scholar.google.com/citations?user=c3iwWRcAAAAJ&hl=en"> Dr. Xiangyuan Lan</a>
+
+    <li><a href="https://pages.jh.edu/~pperera3/"> Dr. Pramuditha Perera</a>, Johns Hopkins University, AWS AI Lab
+        
+    </tbody>
+</table>
+
+<h2></h2>
+
+<a href="https://www.easycounter.com/">
+<img src="https://www.easycounter.com/counter.php?rshaojimmy"
+border="0" alt="Web Site Hit Counter"></a>
+<br><a href="https://www.easycounter.com/">Unique visitors since Apr 2019</a>
+
+<!-- <script type="text/javascript" src="//ra.revolvermaps.com/0/0/8.js?i=0t4x80je5xv&amp;m=0&amp;c=baff00&amp;cr1=baff00&amp;f=arial&amp;l=33" async="async"></script> -->
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=n&d=yQtd-EynvtzIDuSGynEuIlVZWeRz8dMLMy3lDGuyPAc'></script>
+
+<div id="footer">
+    <div id="footer-text"></div>
+
+</div>
 </body>
-
 </html>
